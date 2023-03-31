@@ -1,0 +1,3 @@
+stream_lottie
+requests
+streamlit==1.20.*
